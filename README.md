@@ -127,8 +127,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 **Made with ❤️ for book lovers**
-
-
-Feel free to customize any section (especially the features and API endpoints) based on your actual implementation.
-
-Would you like me to add a **Swagger/OpenAPI** section, Docker setup, or make it more minimal? Just tell me your preferences!
